@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter
-- 📫 Reach me on: twitter [@eric_w91](https://twitter.com/eric_w91)
+- 🌱 I’m currently learning Flutter Framework and UI/UX Design
+- 📫 Reach me on twitter [@eric_w91](https://twitter.com/eric_w91)
 <!--
 **wiyantoeric/wiyantoeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
