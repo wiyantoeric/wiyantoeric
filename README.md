@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning Flutter Framework and UI/UX Design
-- 📫 Reach me on twitter [@eric_w91](https://twitter.com/eric_w91)
+I'm a Informatics Student at Universitas Bunda Mulia and currently learning Flutter and UI/UX Design.
+📫 Reach me on twitter [@eric_w91](https://twitter.com/eric_w91)
 <!--
 **wiyantoeric/wiyantoeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
