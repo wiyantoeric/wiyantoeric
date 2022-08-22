@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Informatics Student at Universitas Bunda Mulia and currently learning Flutter and UI/UX Design.
+I'm a Informatics Student at Universitas Bunda Mulia. I'm currently learning Flutter and UI/UX Design.
 <br>
 📫 Reach me on twitter [@eric_w91](https://twitter.com/eric_w91)
 <!--
