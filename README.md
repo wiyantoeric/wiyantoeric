@@ -3,7 +3,7 @@ I'm a Informatics Student at Universitas Bunda Mulia. I'm currently learning .
 <br>
 📫 Reach me by email : wiyantoeric@gmail.com
 <br>
-📫 Connect with me on linkedIn : [my linkedin](https://www.linkedin.com/in/eric-wiyanto-aa640022a/)
+📫 Connect with me on linkedIn : [eric wiyanto](https://www.linkedin.com/in/eric-wiyanto-aa640022a/)
 <!--
 **wiyantoeric/wiyantoeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
