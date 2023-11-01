@@ -2,6 +2,8 @@
 I'm an Informatics Student at Universitas Bunda Mulia. I'm currently learning software development with Flutter, and React
 <br>
 📫 Connect with me on LinkedIn : [https://linkedin.com/in/eric-wiyanto-aa640022a](https://linkedin.com/in/eric-wiyanto-aa640022a)
+<br>
+🌐 Visit my potfolio website : [https://wiyantoeric.vercel.app](https://wiyantoeric.vercel.app)
 <!--
 **wiyantoeric/wiyantoeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
