@@ -1,7 +1,7 @@
 ### Hey there 👋
 I'm an Informatics Student at Universitas Bunda Mulia. I'm currently learning software development with Flutter, and React
 <br>
-📫 Connect with me on LinkedIn : [https://linkedin.com/in/eric-wiyanto-aa640022a](https://linkedin.com/in/eric-wiyanto-aa640022a)
+📫 Connect with me on LinkedIn : [https://linkedin.com/in/ericwiyanto](https://linkedin.com/in/ericwiyanto)
 <br>
 🌐 Visit my potfolio website : [https://wiyantoeric.vercel.app](https://wiyantoeric.vercel.app)
 <!--
