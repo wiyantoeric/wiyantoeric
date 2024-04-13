@@ -1,20 +1,9 @@
-### Hey there 👋
-I'm an Informatics Student at Universitas Bunda Mulia. I'm currently learning software development with Flutter, and React
+### Eric Wiyanto
+Hello there, I’m an app developer with a formal education in IT<br>
+I do code and design creative web (NextJs) and beautiful mobile app (Flutter)
+
+
 <br>
 📫 Connect with me on LinkedIn : [https://linkedin.com/in/ericwiyanto](https://linkedin.com/in/ericwiyanto)
 <br>
-🌐 Visit my potfolio website : [https://wiyantoeric.vercel.app](https://wiyantoeric.vercel.app)
-<!--
-**wiyantoeric/wiyantoeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Visit my portfolio website : [https://wiyantoeric.vercel.app](https://wiyantoeric.vercel.app)
