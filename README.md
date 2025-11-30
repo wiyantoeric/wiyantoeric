@@ -1,7 +1,7 @@
 ### Eric Wiyanto
-Hey there, I’m a full stack developer with a formal education in IT, experienced as an in-house developer building applications across 10+ divisions!<br>
+Hey there, I’m a full stack developer with a formal education in IT<br>
 
-I specialised in `Creative Web` and `Digital Transformation` and  have created applications for web and mobile, mainly with:
+I am specialised in `Creative Web` and `Digital Transformation` and  have created applications for web and mobile, mainly with:
 - Laravel
 - Next.js
 - Flutter
