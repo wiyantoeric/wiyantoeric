@@ -1,13 +1,5 @@
 ### Eric Wiyanto
-Hey there, I’m a full stack developer with a formal education in IT<br>
-
-I am specialised in `Creative Web` and `Digital Transformation` and  have created applications for web and mobile, mainly with:
-- Laravel
-- Next.js
-- Flutter
-- PostgreSQL
-- Framer Motion (Motion)
-<br>
+Full stack developer, currently developing LLM products.
 
 Let's build things together! [wiyantoeric@gmail.com](mailto:wiyantoeric@gmail.com)<br><br>
 
